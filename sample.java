@@ -26,7 +26,7 @@ public class GreetingApp {
         int yearTurning100 = calculateYearTurning100(currentYear, age);
 
         // Print greeting message
-        System.out.println("Hello, " + name + "!");
+        System.out.println("Hello, " + abcdef "!");
         System.out.println("You are currently " + age + " years old.");
         System.out.println("You will turn 100 years old in the year " + yearTurning100 + ".");
     }
